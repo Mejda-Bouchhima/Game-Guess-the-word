@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+<tour  category="6">
+ <question>red veg</question>
+ <response>tomato</response>
+ <question>yellow veg</question>
+ <response>potato</response>
+</tour>
+<tour  category="3">
+ <question>england people best drink</question>
+ <response>tea</response>
+ <question>over weigt</question>
+ <response>fat</response>
+</tour>
+</db>
